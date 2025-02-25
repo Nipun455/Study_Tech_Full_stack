@@ -1,4 +1,4 @@
-# StudyNotion Online Education Platform (MERN App) [Website Link](ed-tech-wine-omega.vercel.app)
+# StudyNotion Online Education Platform (MERN App) [Website Link](https://ed-tech-wine-omega.vercel.app/)
 
 ![Main Page](images/mainpage.png)
 
